@@ -1,4 +1,6 @@
 📖 Weather App 🌦️
+
+
 A simple and responsive weather app that fetches real-time weather data based on the city name using the OpenWeatherMap API.
 
 🚀 Features
@@ -11,6 +13,7 @@ A simple and responsive weather app that fetches real-time weather data based on
 ⚡ Fast and lightweight
 
 🛠️ Built With
+
 HTML5
 
 CSS3
